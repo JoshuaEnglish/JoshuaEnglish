@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JoshuaEnglish
-- 👀 I’m interested in Python, classical guitar, writing
-- 🌱 I’m currently learning django
+- 👀 I’m interested in Python, classical guitar, writing, and ray tracing
 
 
 <!---
